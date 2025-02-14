@@ -7,7 +7,6 @@ class PageProjects extends StatelessWidget {
 
   final List<Map<String, dynamic>> projects = const [
     {'title': 'Flutter Personal Website', 'description': 'Personal CV Website Using Flutter.', 'icon': Icons.laptop},
-    {'title': 'To Be Announced', 'description': 'Coming Soon!!!', 'icon': Icons.settings},
   ];
 
   @override
